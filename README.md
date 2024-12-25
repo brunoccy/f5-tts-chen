@@ -1,1 +1,1 @@
-# f5-tts-chen
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-blue?logo=google-colab)](https://colab.research.google.com/github/brunoccy/f5-tts-chen/blob/main/F5_TTS_COLAB.ipynb)
